@@ -17,10 +17,12 @@ Indice dei contenuti
 .. important:: 
         Questo invece è importante
 
+
+.. _fig1:
 .. figure:: _img/logo.png
    :scale: 50
 
    Questa è la didascalia alla figura.
 
 
-Questo testo continua dopo l'immagine.
+Questo testo continua dopo l'immagine :numref:`fig1`, cui fa riferimento.

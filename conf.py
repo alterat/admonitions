@@ -155,3 +155,6 @@ texinfo_documents = [
    settings_copyright_year + ', ' + settings_copyright_name, settings_project_name, settings_project_name,
    'Miscellaneous'),
 ]
+
+# figure labels
+numfig = True
