@@ -16,3 +16,11 @@ Indice dei contenuti
 
 .. important:: 
         Questo invece è importante
+
+.. figure:: _img/logo.png
+   :scale: 50
+
+   Questa è la didascalia alla figura.
+
+
+Questo testo continua dopo l'immagine.
