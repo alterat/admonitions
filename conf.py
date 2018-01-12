@@ -2,6 +2,10 @@
 # -*- coding: utf-8 -*-
 # -*- UmbRos 2017-03-23 -*-
 
+import sys
+import os
+import sphinx_italia_theme
+
 # -- <begin> PROJECT Variables ------------------------------------------------
 settings_project_name = '/SampleDoc'
 settings_copyright_year = '2017'
@@ -13,9 +17,6 @@ settings_file_name = 'SampleDoc'
 # settings_logo = 'logo.png'
 # -- <end> PROJECT Variables --------------------------------------------------
 
-
-import sys
-import os
 
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
@@ -71,7 +72,7 @@ pygments_style = 'sphinx'
 # -- Options for HTML output ----------------------------------------------
 html_theme = 'sphinx_italia_theme'
 
-html_theme_path = ["_themes", ]
+html_theme_path = [sphinx_italia_theme.get_html_theme_path()]
 
 # -- ReadTheDoc requirements and local template generation---------------------
 
