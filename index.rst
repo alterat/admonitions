@@ -26,3 +26,22 @@ Indice dei contenuti
 
 
 Questo testo continua dopo l'immagine :numref:`fig1`, cui fa riferimento.
+
+.. _tab1:
+
+.. table:: Titolo della tabella
+   
+   +--------+-----------+-----------------------+
+   | numero | oggetto   | nome del protagonista |
+   +========+===========+=======================+
+   | 1      | mela      | Biancaneve            |
+   +--------+-----------+-----------------------+
+   | 2      | scarpetta | Cenerentola           |
+   +--------+-----------+-----------------------+
+
+
+Questa invece è una tabella, cui posso fare riferimento (vedi :numref:`Tabella %s <tab1>`).
+
+
+
+

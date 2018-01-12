@@ -27,6 +27,7 @@ extensions = [
     'sphinx.ext.todo',
     'sphinx.ext.coverage',
     'sphinx.ext.ifconfig',
+    'sphinx_italia_theme',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -158,3 +159,4 @@ texinfo_documents = [
 
 # figure labels
 numfig = True
+numfig_format = {'figure': 'Figura %s', 'table': 'Tabella %s:', 'code-block': 'My code %s'}
