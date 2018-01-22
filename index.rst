@@ -43,5 +43,13 @@ Questo testo continua dopo l'immagine :numref:`fig1`, cui fa riferimento.
 Questa invece è una tabella, cui posso fare riferimento (vedi :numref:`Tabella %s <tab1>`).
 
 
+.. tabularcolumns:: |p{1cm}|p{7cm}|
+
+.. csv-table:: Lorem Ipsum
+   :file: lorem-tab.csv 
+   :header-rows: 1 
+   :class: longtable
+   :widths: 1 1
+
 
 

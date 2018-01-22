@@ -1,2 +1,2 @@
-git+https://github.com/francescozaia/sphinx_italia_theme.git@v2
+git+https://github.com/italia/sphinx_italia_theme.git@v2
 PyYAML==3.12
