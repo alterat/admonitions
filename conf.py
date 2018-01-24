@@ -328,3 +328,5 @@ intersphinx_mapping = {
     'template-sub': ('http://template-sub.readthedocs.io/en/%s/' % rtd_version, None),
 }
 
+# Figure and Table numbering
+numfig = True
