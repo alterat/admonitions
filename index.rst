@@ -1,7 +1,7 @@
-SampleDoc: Docs /Developers Italia
-==================================
+Documento di test con Docs Italia
+====================================
 
-Questo è un documento di test. E' pertanto un E'.
+Questo è un documento di test. 
 
 Indice dei contenuti
 --------------------
@@ -9,14 +9,17 @@ Indice dei contenuti
 .. warning:: 
         Attenzione! Lingua sconosciuta
 
-
 .. note:: 
         Questa è una nota
 
 
 .. important:: 
-        Questo invece è importante
 
+   Questo invece è importante
+
+.. admonition:: Nota importante
+
+   Questa è una nota personalizzata.
 
 .. _fig1:
 .. figure:: _img/logo.png
