@@ -1,9 +1,9 @@
-Documento di test con Docs Italia
+Test document with Docs Italia theme
 ====================================
 
-Questo è un documento di test. 
+This is a test document.
 
-Indice dei contenuti
+Index of contents
 --------------------
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla dignissim
@@ -35,43 +35,43 @@ consequat elementum, nisl ex faucibus odio, a pharetra leo lacus iaculis
 ante. Nulla lacinia suscipit risus, et dapibus dui mattis ac.
 
 .. warning:: 
-        Attenzione! Lingua sconosciuta
+        Attention! Unknown language
 
 .. note:: 
-        Questa è una nota
+        This is a note
 
 
 .. important:: 
 
-   Questo invece è importante
+   This is important.
 
-.. admonition:: Nota importante
+.. admonition:: Important note
 
-   Questa è una nota personalizzata.
+   This is a custom note.
 
 .. _fig1:
 .. figure:: _img/logo.png
    :scale: 50
 
-   Questa è la didascalia alla figura.
+   This is a caption.
 
 
-Questo testo continua dopo l'immagine :numref:`fig1`, cui fa riferimento.
+This text goes after :numref:`fig1`, which it refers to.
 
 .. _tab1:
 
-.. table:: Titolo della tabella
+.. table:: Title of the table
    
-   +--------+-----------+-----------------------+
-   | numero | oggetto   | nome del protagonista |
-   +========+===========+=======================+
-   | 1      | mela      | Biancaneve            |
-   +--------+-----------+-----------------------+
-   | 2      | scarpetta | Cenerentola           |
-   +--------+-----------+-----------------------+
+   +--------+--------+-------------------------+
+   | number | object | name of the protagonist |
+   +========+========+=========================+
+   | 1      | apple  | Snow White              |
+   +--------+--------+-------------------------+
+   | 2      | shoe   | Cinderella              |
+   +--------+--------+-------------------------+
 
 
-Questa invece è una tabella, cui posso fare riferimento (vedi :numref:`Tabella %s <tab1>`).
+This is a table, which I can refer to (see :numref:`Table %s <tab1>`).
 
 
 .. tabularcolumns:: |p{1cm}|p{7cm}|
