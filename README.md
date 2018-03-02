@@ -1,4 +1,4 @@
-# Admonitions. A test document with Sphinx and Read the Docs
+# Admonitions. A test document with Docs Italia
 
 This is a test document for experimenting with Sphinx and Read the Docs.
 
