@@ -139,7 +139,12 @@ else:
             '_static/css/theme.css',
             '_static/css/badge_only.css',
         ],
-    }
+        # The translations available for this project
+        'translations': {
+            'it': 'ITA',
+            'en': 'ENG'
+        }
+}
 
 
 # The name for this set of Sphinx documents.  If None, it defaults to
