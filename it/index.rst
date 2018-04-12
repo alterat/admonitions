@@ -3,8 +3,48 @@ Documento di test con Docs Italia
 
 Questo è un documento di test. 
 
-Indice dei contenuti
---------------------
+Mappa dei box
+-------------
+
+.. attention::
+        Attenzione! [attention]
+
+.. caution:: 
+        [caution]
+
+.. danger::
+        Pericolo!! [danger]
+
+.. error::
+        Errore [error]
+
+.. hint::
+        Suggerimento [hint]
+
+.. important::
+        Importante [important]
+
+.. note:: 
+        Questa è una nota [note]
+
+.. tip::
+        Suggerimento [tip]
+
+.. warning:: 
+        Attenzione! Lingua sconosciuta
+
+.. admonition:: Nota importante
+
+   Questa è una nota personalizzata. [admonition]
+
+.. admonition:: Esempio
+
+   Admonition di esempio.
+
+
+
+Testo
+-----
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla dignissim
 purus mauris. Nam vitae semper eros. Curabitur luctus nisl neque, vitae
@@ -34,20 +74,6 @@ sodales ipsum sed neque commodo mollis. Nunc accumsan, odio nec
 consequat elementum, nisl ex faucibus odio, a pharetra leo lacus iaculis
 ante. Nulla lacinia suscipit risus, et dapibus dui mattis ac.
 
-.. warning:: 
-        Attenzione! Lingua sconosciuta
-
-.. note:: 
-        Questa è una nota
-
-
-.. important:: 
-
-   Questo invece è importante
-
-.. admonition:: Nota importante
-
-   Questa è una nota personalizzata.
 
 .. _fig1:
 .. figure:: _img/logo.png
