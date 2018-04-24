@@ -1,7 +1,13 @@
 Documento di test con Docs Italia
 ====================================
 
-Questo è un documento di test. 
+.. highlights:: 
+        
+   Questo è un documento di test. Viene usato per testare alcune funzionalità di Sphinx e Docs Italia.
+   Se il sommario è troppo lungo, potrebbe finire su più righe. 
+   Un'altra riga di test. E un'altra ancora
+
+   È possibile separare i paragrafi, se necessario?
 
 Mappa dei box
 -------------
