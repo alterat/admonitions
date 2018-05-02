@@ -88,6 +88,9 @@ ante. Nulla lacinia suscipit risus, et dapibus dui mattis ac.
    Questa è la didascalia alla figura.
 
 
+
+|Libri antichi con copertina rigida su uno scaffale.|
+
 Questo testo continua dopo l'immagine :numref:`fig1`, cui fa riferimento.
 
 .. _tab1:
@@ -115,4 +118,7 @@ Questa invece è una tabella, cui posso fare riferimento (vedi :numref:`Tabella 
    :widths: 1 1
 
 
-
+.. |Libri antichi con copertina rigida su uno scaffale.| image:: _img/books.jpeg
+   :width: 2.13056in
+   :height: 1.22847in
+   
