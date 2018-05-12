@@ -122,3 +122,19 @@ Questa invece è una tabella, cui posso fare riferimento (vedi :numref:`Tabella 
    :width: 2.13056in
    :height: 1.22847in
    
+Elenchi
+-------
+
+Elenco puntato stretto.
+
+- item 1
+- item 2
+- item 3
+
+Elenco puntato largo.
+
+- item 1
+
+- item 2
+
+- item 3
