@@ -7,7 +7,7 @@ from recommonmark.transform import AutoStructify
 from recommonmark.parser import CommonMarkParser
 
 # -- PROJECT Variables ----------------------------------------------------
-settings_project_name = 'Documento di test con Docs Italia'
+settings_project_name = 'Titolo diverso per il documento'
 settings_copyright_copyleft = 'Creative Commons Attribution 4.0'
 settings_editor_name = 'AT'
 settings_doc_version = 'versione 0.1'
