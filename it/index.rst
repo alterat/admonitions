@@ -13,6 +13,10 @@ L'altro titolo per il documento
    
    Aggiungere un'altra riga.
 
+.. centered:: TESTO CENTRATO
+
+Un paragrafo aggiuntivo...
+
 Mappa dei box
 -------------
 
